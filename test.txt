@@ -1,5 +1,7 @@
 testing branch i am in test branch
 I have been merged.
-A new change in branch now to be deleted
+A new change in branch
 lets try pull request
+I am a change by branch 1
 I am a change by branch 2.
+
